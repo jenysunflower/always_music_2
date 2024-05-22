@@ -1,0 +1,6 @@
+Igual que en el desafio anterior, tengo un archivo .env(no subido con .gitignore) que tiene lo pedido en postgres que se tienen que rellenar con los datos correspondientes:
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_HOST=
+POSTGRES_PORT=
+POSTGRES_DATABASE=
